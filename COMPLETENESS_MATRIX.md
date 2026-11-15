@@ -2,25 +2,25 @@
 
 AI Governance Curriculum · Level 30 · [learning](https://github.com/ai-governance-curriculum/ai-privacy-engineer-learning) · [solutions](https://github.com/ai-governance-curriculum/ai-privacy-engineer-solutions)
 
-_Generated 2026-11-08 by `aicg org completeness`._
+_Generated 2026-11-15 by `aicg org completeness`._
 
-**Overall: 50%**
+**Overall: 71%**
 
 | | Progress | Count |
 |---|---|---|
 | Learning | `██████████` 100% | 12/12 modules complete |
-| Solutions | `░░░░░░░░░░` 0% | 0/79 exercises solved |
+| Solutions | `████░░░░░░` 42% | 33/79 exercises solved |
 
 ## Modules
 
 | Module | Status | Words | Chapters | Exercises | Quiz | Solutions |
 |---|---|---|---|---|---|---|
-| `mod-101-privacy-frameworks-and-position` | ✅ Complete | 25,465 | 8 | 6 | — | 0/6 |
+| `mod-101-privacy-frameworks-and-position` | ✅ Complete | 25,465 | 8 | 6 | — | 6/6 |
 | `mod-102-privacy-threat-modelling` | ✅ Complete | 22,928 | 9 | 6 | — | 0/6 |
-| `mod-103-data-governance-and-minimisation` | ✅ Complete | 26,067 | 8 | 6 | — | 0/6 |
-| `mod-104-pii-detection-and-redaction` | ✅ Complete | 24,498 | 10 | 6 | — | 0/6 |
-| `mod-105-memorisation-extraction-and-mia` | ✅ Complete | 26,296 | 10 | 7 | — | 0/7 |
-| `mod-106-differential-privacy-engineering` | ✅ Complete | 26,692 | 10 | 8 | — | 0/8 |
+| `mod-103-data-governance-and-minimisation` | ✅ Complete | 26,067 | 8 | 6 | — | 6/6 |
+| `mod-104-pii-detection-and-redaction` | ✅ Complete | 24,498 | 10 | 6 | — | 6/6 |
+| `mod-105-memorisation-extraction-and-mia` | ✅ Complete | 26,296 | 10 | 7 | — | 7/7 |
+| `mod-106-differential-privacy-engineering` | ✅ Complete | 26,692 | 10 | 8 | — | 8/8 |
 | `mod-107-federated-learning-and-secure-aggregation` | ✅ Complete | 26,851 | 8 | 6 | — | 0/6 |
 | `mod-108-confidential-computing-and-ppi` | ✅ Complete | 26,963 | 7 | 7 | — | 0/7 |
 | `mod-109-rag-privacy-and-agent-scoping` | ✅ Complete | 26,049 | 6 | 6 | — | 0/6 |
